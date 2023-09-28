@@ -32,3 +32,5 @@ No estado "stopped", pressionar "Shuffle" reorganiza a ordem da lista de reprodu
 
 
 Este player de áudio aprimorado oferece uma experiência mais completa e flexível, permitindo que os usuários desfrutem de suas músicas com facilidade e controle. Sinta-se à vontade para utilizar e contribuir com melhorias, seguindo a licença MIT fornecida no projeto.
+
+> As músicas de teste estão localizadas na pasta 'Músicas Para Teste', que pode ser encontrada no diretório 'Player-de-M-sica-com-Threads\src\main\resources'.
